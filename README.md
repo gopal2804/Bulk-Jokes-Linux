@@ -1,4 +1,4 @@
-~~~diff
+```diff
 ##  + This Linux program will send mass mails to recepient it's kind of spam so use it very carefully 😇 
 
 ### Steps for building this project:
@@ -14,4 +14,4 @@
 #### 9. run ./main.sh
 
 ## Boom check you mailbox ☠☠☠
-~~~
+```
