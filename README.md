@@ -7,7 +7,27 @@
 #### 4. open & edit /etc/ssmtp/ssmtp.conf file (see the file in repo)
 #### 5. data collection for mail body (refer mailSpammer/database.txt in repo)
 #### 6. splitting the database.txt where number of files is equal to number of lines in database.txt
-<note> split -l 1 database.txt you_filename (file will be create like you_filenameaa, you_filenameab,...)</note>
+<note> split -l 1 database.txt you_filename </note>
+#### 7. refer main.sh for the source code
+#### 8. Give the permission to main.sh and put your souce code file in the directory where you have all your splitted files(refer step 6)
+#### 9. run ./main.sh
 
-
-
+## Boom check you mailbox 
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬛⬜⬛⬛⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜
+⬜⬜⬛⬛⬜⬛⬜⬜⬜⬛⬜⬜⬜⬜⬛⬛⬛⬜⬛⬛⬜
+⬜⬛⬛⬛⬜⬛⬜⬜⬜⬛⬜⬜⬜⬜⬛⬛⬛⬜⬛⬛⬛
+⬜⬛⬛⬛⬜⬛⬛⬜⬛⬛⬛⬜⬜⬛⬛⬛⬛⬜⬛⬛⬛
+⬜⬜⬜⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬛⬛⬜⬛⬛⬛⬛⬛⬜⬛⬛⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬜⬛⬛⬜⬜⬛⬛⬛⬜⬜⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜⬛⬛⬛⬜⬛⬛⬜
+⬛⬛⬛⬜⬛⬛⬜⬛⬜⬛⬜⬛⬜⬜⬜⬜⬛⬛⬛⬛⬜
+⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬜
+⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜
+⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
