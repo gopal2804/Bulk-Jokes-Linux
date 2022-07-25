@@ -1,4 +1,4 @@
-## @@ This Linux program will send mass mails to recepient it's kind of spam so use it very carefully 😇
+## ![#1589F0] This Linux program will send mass mails to recepient it's kind of spam so use it very carefully 😇 '#1589F0'
 
 ### Steps for building this project:
 #### 1. Configure Gamil/any other mail in IMOP, use add password(In Gmail account/mail browser)
