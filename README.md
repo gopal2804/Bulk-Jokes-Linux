@@ -1,4 +1,5 @@
-##  This Linux program will send mass mails to recepient it's kind of spam so use it very carefully 😇 
+~~~diff
+##  + This Linux program will send mass mails to recepient it's kind of spam so use it very carefully 😇 
 
 ### Steps for building this project:
 #### 1. Configure Gamil/any other mail in IMOP, use add password(In Gmail account/mail browser)
@@ -13,4 +14,4 @@
 #### 9. run ./main.sh
 
 ## Boom check you mailbox ☠☠☠
-
+~~~
